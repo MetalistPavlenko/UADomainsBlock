@@ -11,6 +11,6 @@
   [Завантажити базу](https://raw.githubusercontent.com/MetalistPavlenko/UADomainsBlock/main/geosite.srs)
 
 - **GeoSite для xray-core:**  
-  [Завантажити базу](https://raw.githubusercontent.com/MetalistPavlenko/UADomainsBlock/main/geodomain.dat)
+  [Завантажити базу](https://raw.githubusercontent.com/MetalistPavlenko/UADomainsBlock/main/geosite.dat)
 
 ---
